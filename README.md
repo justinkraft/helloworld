@@ -1,3 +1,3 @@
-This repo shows the first program pushed to GitHub.com which is a simple "Hello World" java file.
+This repo shows my first program pushed to GitHub.com account.
 
-Check out my GitHub page in the future for more repositories.
+This repo is a simple Hello World .java file.

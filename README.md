@@ -1,0 +1,1 @@
+This repo shows the first program pushed to GitHub.com which is a simple "Hello World" java file
